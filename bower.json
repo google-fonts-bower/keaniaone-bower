@@ -1,0 +1,17 @@
+{
+    "name": "keaniaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Julia Petretta"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/keaniaone-bower.git"
+    },
+    "description": "Keania One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
